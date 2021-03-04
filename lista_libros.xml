@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="ISO-8859-1"?>
-<?xml-stylesheet type="text/xsl" href="lista_libros5_3.xsl"?>
+<?xml-stylesheet type="text/xsl" href="lista_libros5_4.xsl"?>
 <libreria>
     <libro>
     <titulo>Physics-based animation</titulo>
@@ -48,5 +48,21 @@
     <isbn>978-6546-654-2545-2</isbn>
     <precio>12.50</precio>
     <numPaginas>350</numPaginas>
+    </libro>
+    <libro>
+    <titulo>Los Girasoles Ciegos</titulo>
+    <autor>Antonio de la Rosa</autor>
+    <editor>Charles River Media</editor>
+    <isbn>476-7486-755-7878-5</isbn>
+    <precio>10.50</precio>
+    <numPaginas>546</numPaginas>
+    </libro>
+    <libro>
+    <titulo>La Celestina</titulo>
+    <autor>Antonio de la Rosa</autor>
+    <editor>Charles River Media</editor>
+    <isbn>676-8678-757-7575-5</isbn>
+    <precio>60.50</precio>
+    <numPaginas>475</numPaginas>
     </libro>
 </libreria>
