@@ -4,16 +4,16 @@ xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
 <xsl:template match="/">
     <html>
     <body>
-    <h1>Lista Canciones</h1>
+    <h1>Duración de menos de 2 minuto</h1>
         <table>
-        <tr bgcolor="#887788">
+        <tr bgcolor="#009999">
             <th>TituloDelAlbum</th>
             <th>Artista</th>
             <th>SelloDiscografico</th>
             <th>AnnoPublicacion</th>
             <th>TituloCancion</th>
         </tr>
-        <xsl:for-each select="Discografica/CD">
+        <xsl:for-each select="Discografica/CD[SelloDiscografico='Columbia Records']">
         <tr>
             <td><xsl:value-of select="TituloDelAlbum"/></td>
             <td><xsl:value-of select="Artista"/></td>

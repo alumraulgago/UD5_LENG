@@ -6,7 +6,7 @@ xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
     <body>
     <h1>Artista Elegido</h1>
         <table>
-        <tr bgcolor="#887788">
+        <tr bgcolor="#3399ff">
             <th>TituloDelAlbum</th>
             <th>Artista</th>
             <th>SelloDiscografico</th>
@@ -19,14 +19,11 @@ xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
             <td><xsl:value-of select="Artista"/></td>
             <td><xsl:value-of select="SelloDiscografico"/></td>
             <td><xsl:value-of select="AnnoPublicacion"/></td>
-            <td>
-                <ol>
-                    <li>
-                    <xsl:for-each select="TituloCancion">
-                        <xsl:value-of select="."/>
-                    </xsl:for-each>
-                    </li>
-                </ol>
+            <td>   
+                <xsl:for-each select="TituloCancion">
+                    <xsl:value-of select="."/>
+                    <br/>
+                </xsl:for-each> 
             </td>
         </tr>
         </xsl:for-each>

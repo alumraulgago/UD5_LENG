@@ -1,114 +1,114 @@
 <?xml version="1.0" encoding="ISO-8859-1"?>
-<?xml-stylesheet type="text/xsl" href="cd_p1.xsl"?>
+<?xml-stylesheet type="text/xsl" href="cd_p2.xsl"?>
 <Discografica>
     <CD>
     <TituloDelAlbum>After Hours</TituloDelAlbum>
     <Artista>The Weeknd</Artista>
-    <TituloCancion>Alone Again</TituloCancion>
-    <TituloCancion>Heartless</TituloCancion>
-    <TituloCancion>Blinding Lights</TituloCancion>
-    <TituloCancion>In Your Eyes</TituloCancion>
-    <TituloCancion>Save Your Tears</TituloCancion>
-    <TituloCancion>After Hours</TituloCancion>
+    <TituloCancion tiempo="256">Alone Again</TituloCancion>
+    <TituloCancion tiempo="235">Heartless</TituloCancion>
+    <TituloCancion tiempo="254">Blinding Lights</TituloCancion>
+    <TituloCancion tiempo="354">In Your Eyes</TituloCancion>
+    <TituloCancion tiempo="321">Save Your Tears</TituloCancion>
+    <TituloCancion tiempo="233">After Hours</TituloCancion>
     <SelloDiscografico>XO y Republic Records</SelloDiscografico>
     <AnnoPublicacion>20 de marzo de 2020</AnnoPublicacion>
     </CD>
     <CD>
     <TituloDelAlbum>Abbey Road</TituloDelAlbum>
     <Artista>The Beatles</Artista>
-    <TituloCancion>Come Together</TituloCancion>
-    <TituloCancion>Something</TituloCancion>
-    <TituloCancion>Oh! Darling</TituloCancion>
-    <TituloCancion>I Want You She's So Heavy</TituloCancion>
-    <TituloCancion>Because</TituloCancion>
+    <TituloCancion tiempo="234">Come Together</TituloCancion>
+    <TituloCancion tiempo="259">Something</TituloCancion>
+    <TituloCancion tiempo="247">Oh! Darling</TituloCancion>
+    <TituloCancion tiempo="356">I Want You She's So Heavy</TituloCancion>
+    <TituloCancion tiempo="347">Because</TituloCancion>
     <SelloDiscografico>Apple Records</SelloDiscografico>
     <AnnoPublicacion>26 de septiembre de 1969</AnnoPublicacion>
     </CD>
     <CD>
     <TituloDelAlbum>A Night At The Opera</TituloDelAlbum>
     <Artista>Queen</Artista>
-    <TituloCancion>Bohemian Rhapsody</TituloCancion>
-    <TituloCancion>God Save The Queen</TituloCancion>
-    <TituloCancion>Good Company</TituloCancion>
-    <TituloCancion>Love Of My Life</TituloCancion>
-    <TituloCancion>Sweet Lady</TituloCancion>
+    <TituloCancion tiempo="321">Bohemian Rhapsody</TituloCancion>
+    <TituloCancion tiempo="234">God Save The Queen</TituloCancion>
+    <TituloCancion tiempo="245">Good Company</TituloCancion>
+    <TituloCancion tiempo="212">Love Of My Life</TituloCancion>
+    <TituloCancion tiempo="254">Sweet Lady</TituloCancion>
     <SelloDiscografico>EMI Records</SelloDiscografico>
     <AnnoPublicacion>21 de noviembre de 1975</AnnoPublicacion>
     </CD>
     <CD>
     <TituloDelAlbum>I Am</TituloDelAlbum>
     <Artista>Earth, Wind and Fire</Artista>
-    <TituloCancion>Boogie Wonderland</TituloCancion>
-    <TituloCancion>September</TituloCancion>
-    <TituloCancion>You and I</TituloCancion>
-    <TituloCancion>Star</TituloCancion>
-    <TituloCancion>Wait</TituloCancion>
+    <TituloCancion tiempo="314">Boogie Wonderland</TituloCancion>
+    <TituloCancion tiempo="354">September</TituloCancion>
+    <TituloCancion tiempo="432">You and I</TituloCancion>
+    <TituloCancion tiempo="427">Star</TituloCancion>
+    <TituloCancion tiempo="234">Wait</TituloCancion>
     <SelloDiscografico>Columbia Records</SelloDiscografico>
     <AnnoPublicacion>Mayo de 1979</AnnoPublicacion>
     </CD>
     <CD>
     <TituloDelAlbum>Redención</TituloDelAlbum>
     <Artista>SFDK</Artista>
-    <TituloCancion>Lucifer</TituloCancion>
-    <TituloCancion>Cara B</TituloCancion>
-    <TituloCancion>Agua Pasá</TituloCancion>
-    <TituloCancion>Años Muertos</TituloCancion>
-    <TituloCancion>La Culpa de Mi</TituloCancion>
+    <TituloCancion tiempo="425">Lucifer</TituloCancion>
+    <TituloCancion tiempo="254">Cara B</TituloCancion>
+    <TituloCancion tiempo="245">Agua Pasá</TituloCancion>
+    <TituloCancion tiempo="225">Años Muertos</TituloCancion>
+    <TituloCancion tiempo="536">La Culpa de Mi</TituloCancion>
     <SelloDiscografico>BOA Music/SFDK Records</SelloDiscografico>
     <AnnoPublicacion>1 de marzo de 2018</AnnoPublicacion>
     </CD>
     <CD>
     <TituloDelAlbum>El Círculo</TituloDelAlbum>
     <Artista>Kase. O</Artista>
-    <TituloCancion>Pavos Reales</TituloCancion>
-    <TituloCancion>Mazas y Catapultas</TituloCancion>
-    <TituloCancion>Guapo Tarde</TituloCancion>
-    <TituloCancion>Viejos Ciegos</TituloCancion>
-    <TituloCancion>Yemen</TituloCancion>
+    <TituloCancion tiempo="434">Pavos Reales</TituloCancion>
+    <TituloCancion tiempo="242">Mazas y Catapultas</TituloCancion>
+    <TituloCancion tiempo="287">Guapo Tarde</TituloCancion>
+    <TituloCancion tiempo="272">Viejos Ciegos</TituloCancion>
+    <TituloCancion tiempo="279">Yemen</TituloCancion>
     <SelloDiscografico>Boa Musica | Rap Solo</SelloDiscografico>
     <AnnoPublicacion>23 de septiembre de 2016</AnnoPublicacion>
     </CD>
     <CD>
     <TituloDelAlbum>Bangarang</TituloDelAlbum>
     <Artista>Skrillex</Artista>
-    <TituloCancion>Right In</TituloCancion>
-    <TituloCancion>Bangarang</TituloCancion>
-    <TituloCancion>Right On Time</TituloCancion>
-    <TituloCancion>Kyoto</TituloCancion>
-    <TituloCancion>Summit</TituloCancion>
+    <TituloCancion tiempo="245">Right In</TituloCancion>
+    <TituloCancion tiempo="273">Bangarang</TituloCancion>
+    <TituloCancion tiempo="373">Right On Time</TituloCancion>
+    <TituloCancion tiempo="298">Kyoto</TituloCancion>
+    <TituloCancion tiempo="373">Summit</TituloCancion>
     <SelloDiscografico>OWSLA, Big Beat Records y Atlantic Records</SelloDiscografico>
     <AnnoPublicacion>23 de diciembre de 2011</AnnoPublicacion>
     </CD>
     <CD>
     <TituloDelAlbum>Bangarang</TituloDelAlbum>
     <Artista>Skrillex</Artista>
-    <TituloCancion>Right In</TituloCancion>
-    <TituloCancion>Bangarang</TituloCancion>
-    <TituloCancion>Right On Time</TituloCancion>
-    <TituloCancion>Kyoto</TituloCancion>
-    <TituloCancion>Summit</TituloCancion>
+    <TituloCancion tiempo="245">Right In</TituloCancion>
+    <TituloCancion tiempo="273">Bangarang</TituloCancion>
+    <TituloCancion tiempo="373">Right On Time</TituloCancion>
+    <TituloCancion tiempo="298">Kyoto</TituloCancion>
+    <TituloCancion tiempo="373">Summit</TituloCancion>
     <SelloDiscografico>OWSLA, Big Beat Records y Atlantic Records</SelloDiscografico>
     <AnnoPublicacion>23 de diciembre de 2011</AnnoPublicacion>
     </CD>
     <CD>
     <TituloDelAlbum>Bangarang</TituloDelAlbum>
     <Artista>Skrillex</Artista>
-    <TituloCancion>Right In</TituloCancion>
-    <TituloCancion>Bangarang</TituloCancion>
-    <TituloCancion>Right On Time</TituloCancion>
-    <TituloCancion>Kyoto</TituloCancion>
-    <TituloCancion>Summit</TituloCancion>
+    <TituloCancion tiempo="245">Right In</TituloCancion>
+    <TituloCancion tiempo="273">Bangarang</TituloCancion>
+    <TituloCancion tiempo="373">Right On Time</TituloCancion>
+    <TituloCancion tiempo="298">Kyoto</TituloCancion>
+    <TituloCancion tiempo="373">Summit</TituloCancion>
     <SelloDiscografico>OWSLA, Big Beat Records y Atlantic Records</SelloDiscografico>
     <AnnoPublicacion>23 de diciembre de 2011</AnnoPublicacion>
     </CD>
     <CD>
     <TituloDelAlbum>Bangarang</TituloDelAlbum>
     <Artista>Skrillex</Artista>
-    <TituloCancion>Right In</TituloCancion>
-    <TituloCancion>Bangarang</TituloCancion>
-    <TituloCancion>Right On Time</TituloCancion>
-    <TituloCancion>Kyoto</TituloCancion>
-    <TituloCancion>Summit</TituloCancion>
+    <TituloCancion tiempo="245">Right In</TituloCancion>
+    <TituloCancion tiempo="273">Bangarang</TituloCancion>
+    <TituloCancion tiempo="373">Right On Time</TituloCancion>
+    <TituloCancion tiempo="298">Kyoto</TituloCancion>
+    <TituloCancion tiempo="373">Summit</TituloCancion>
     <SelloDiscografico>OWSLA, Big Beat Records y Atlantic Records</SelloDiscografico>
     <AnnoPublicacion>23 de diciembre de 2011</AnnoPublicacion>
     </CD>
