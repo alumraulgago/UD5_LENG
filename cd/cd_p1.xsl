@@ -5,7 +5,7 @@ xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
     <html>
     <body>
     <h1>Lista Canciones</h1>
-        <table>
+        <table border="1">
         <tr bgcolor="#887788">
             <th>TituloDelAlbum</th>
             <th>Artista</th>

@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="ISO-8859-1"?>
-<?xml-stylesheet type="text/xsl" href="cd_p2.xsl"?>
+<?xml-stylesheet type="text/xsl" href="cd_p4.xsl"?>
 <Discografica>
     <CD>
     <TituloDelAlbum>After Hours</TituloDelAlbum>
@@ -9,7 +9,7 @@
     <TituloCancion tiempo="254">Blinding Lights</TituloCancion>
     <TituloCancion tiempo="354">In Your Eyes</TituloCancion>
     <TituloCancion tiempo="321">Save Your Tears</TituloCancion>
-    <TituloCancion tiempo="233">After Hours</TituloCancion>
+    <TituloCancion tiempo="133">After Hours</TituloCancion>
     <SelloDiscografico>XO y Republic Records</SelloDiscografico>
     <AnnoPublicacion>20 de marzo de 2020</AnnoPublicacion>
     </CD>

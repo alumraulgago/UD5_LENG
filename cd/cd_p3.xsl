@@ -5,7 +5,7 @@ xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
     <html>
     <body>
     <h1>Sello Discografico</h1>
-        <table>
+        <table border="1">
         <tr bgcolor="#ffcc00">
             <th>TituloDelAlbum</th>
             <th>Artista</th>
